@@ -1,89 +1,151 @@
  <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=400&size=38&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Harsh+Pandit.;A+Vibe+Coder+%26+Builder.;Turning+ideas+into+reality." alt="Harsh Pandit" />
-
-<p>
-  <a href="https://github.com/harshpandit47dev"><img src="https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://x.com/Harsh_dev47"><img src="https://img.shields.io/badge/X-181818?style=flat-square&logo=x&logoColor=white"/></a>
-</p>
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&size=46&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=750&height=80&lines=Hey%2C+I'm+Harsh+Pandit.;A+Vibe+Coder+%26+Digital+Creator.;I+turn+ideas+into+reality." alt="Harsh Pandit"/>
 
 <br/>
 
-<table>
-<tr>
-<td width="65%" valign="middle">
+<sub>BUILDING DIGITAL EXPERIENCES THROUGH CODE, CREATIVITY & AI.</sub>
 
-## A little about me.
+<br/><br/>
 
-I'm **Harsh Pandit**, a vibe coder who loves turning ideas into digital experiences.
+<a href="https://github.com/harshpandit47dev">
+<img src="https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://x.com/Harsh_dev47">
+<img src="https://img.shields.io/badge/X-181818?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
-I enjoy building websites, desktop applications, and experimenting with AI-powered tools. I like exploring new technologies, breaking things, figuring out how they work, and turning random ideas into something real.
+<br/><br/>
 
-For me, coding isn't just about writing lines of code. It's about imagination, experimentation, and creating things that people enjoy using.
-
-**Currently interested in:**
-
-- Building beautiful websites and applications.
-- AI-powered development and coding agents.
-- Exploring open-source software.
-- Minimal UI, smooth animations, and great UX.
-- Learning new technologies by building projects.
-
-*Think it. Build it. Make it better.*
-
-</td>
-<td width="35%" align="center" valign="middle">
-
-<img src="assets/octopus.svg" width="260" alt="Animated coding octopus"/>
-
-<sub>Just another day in the code ocean.</sub>
-
-</td>
-</tr>
-</table>
-
----
-
-## Technologies & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css,react,nextjs,nodejs,tailwind,linux,bash,git,github,vscode&perline=8" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:333333&height=2&section=header" width="100%"/>
 
 </div>
 
-## What I enjoy
+## 01 / Introduction
+
+### A little about me.
+
+Hey! I'm **Harsh Pandit**, a vibe coder who loves transforming ideas into meaningful digital experiences.
+
+I enjoy building websites, applications, exploring AI-powered development, and experimenting with technologies that make creating things more exciting.
+
+I believe great software isn't just about functionality. It's also about the experience, the details, the design, and the feeling people get when they use it.
+
+I'm constantly exploring, experimenting, learning, and building. Sometimes it's a simple idea, sometimes it's an ambitious project. Either way, I enjoy bringing it to life.
+
+> I don't just want to use technology. I want to create something with it.
+
+---
+
+## 02 / What I Do
 
 <div align="center">
 
-**01 / BUILD**
+| AREA | WHAT INTERESTS ME |
+|:---|:---|
+| Web Development | Building modern websites and web experiences |
+| App Development | Creating useful desktop and application experiences |
+| Artificial Intelligence | Exploring AI tools, models and AI-powered workflows |
+| Creative Coding | Experimenting with ideas, interfaces and interactions |
+| Open Source | Exploring projects and learning from the community |
 
-Turning random ideas into working products.
+</div>
 
-**02 / EXPLORE**
+## 03 / Technologies & Tools
 
-Discovering technologies, tools, and possibilities.
+<sub>Some technologies and tools I use, explore, and enjoy experimenting with.</sub>
 
-**03 / EXPERIMENT**
+<div align="center">
 
-Playing with AI and finding new ways to create.
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css,bash&theme=dark" />
+
+<br/><br/>
+
+### Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind&theme=dark" />
+
+<br/><br/>
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,vim,npm&theme=dark" />
 
 </div>
 
 ---
 
+## 04 / My Approach
+
+### Build. Experiment. Improve.
+
+**01. Imagine**
+
+Every interesting project begins with an idea. I enjoy exploring possibilities and thinking about what could be built.
+
+**02. Experiment**
+
+I try different tools, technologies, approaches, and ideas until something starts taking shape.
+
+**03. Create**
+
+I turn those ideas into working applications and digital experiences.
+
+**04. Refine**
+
+I care about the small details: clean interfaces, smooth interactions, performance, and usability.
+
+---
+
+## 05 / Beyond Coding
+
+A few things that keep me curious:
+
+- Exploring emerging AI technologies.
+- Discovering interesting open-source projects.
+- Experimenting with new developer tools.
+- Observing great UI/UX and interaction design.
+- Learning how software works behind the scenes.
+- Turning random ideas into actual projects.
+
+---
+
+## 06 / A Few Things I Believe In
+
 <div align="center">
 
-## Let's connect.
+*Good design should feel effortless.*
 
-<a href="https://github.com/harshpandit47dev">GitHub</a> &nbsp; · &nbsp; <a href="https://x.com/Harsh_dev47">X / Twitter</a>
+*Simple interfaces can create powerful experiences.*
 
-<br/>
+*The best way to learn is to build.*
 
-*Made with curiosity, coffee, and a little bit of code.*
+*Curiosity is more valuable than knowing everything.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101010,100:292929&height=110&section=footer" width="100%"/>
+</div>
+
+---
+
+## 07 / Let's Connect
+
+I'm always interested in discovering new ideas, exploring interesting projects, and connecting with people who love building things.
+
+<div align="center">
+
+<a href="https://github.com/harshpandit47dev">
+<img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181818?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Harsh_dev47">
+<img src="https://img.shields.io/badge/X-Let's%20connect-181818?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101010,100:303030&height=120&section=footer&text=Keep%20Building.&fontColor=ffffff&fontSize=30&fontAlignY=65&fontFamily=serif" width="100%"/>
+
+<sub>DESIGNED WITH CURIOSITY. BUILT WITH CODE.</sub>
 
 </div>
